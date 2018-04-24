@@ -1,0 +1,101 @@
+.smile{display:inline-block;
+	height:24px;
+width:20px;
+background: url(./img/smile.gif) 0 0;
+}
+.sad{height:24px;
+width:20px;
+background: url(./img/sad.gif) 0 0;
+}
+.taunt{height:21px;
+width:35px;
+background: url(./img/taunt.gif) 0 0;
+}
+.cry{height:22px;
+width:31px;
+background: url(./img/cry.gif) 0 0;
+}
+.rofl{height:23px;
+width:28px;
+background: url(./img/rofl.gif) 0 0;
+}
+.suicide{height:33px;
+width:42px;
+background: url(./img/suicide.gif) 0 0;
+}
+.biggrin{height:20px;
+width:20px;
+background: url(./img/biggrin.gif) 0 0;
+}
+.tongue{height:20px;
+width:20px;
+background: url(./img/tongue.gif) 0 0;
+}
+.shock{height:20px;
+width:20px;
+background: url(./img/shock.gif) 0 0;
+}
+.think{height:23px;
+width:25px;
+background: url(./img/think.gif) 0 0;
+}
+.unsure{height:20px;
+width:20px;
+background: url(./img/unsure.gif) 0 0;
+}
+.flowers{height:40px;
+width:40px;
+background: url(./img/flowers.gif) 0 0;
+}
+.doh{height:30px;
+width:24px;
+background: url(./img/doh.gif) 0 0;
+}
+.kiss{height:26px;
+width:23px;
+background: url(./img/kiss.gif) 0 0;
+}
+.threaten{height:22px;
+width:25px;
+background: url(./img/threaten.gif) 0 0;
+}
+.help{height:33px;
+width:29px;
+background: url(./img/help.gif) 0 0;
+}
+.good{height:23px;
+width:26px;
+background: url(./img/good.gif) 0 0;
+}
+.beee{height:28px;
+width:28px;
+background: url(./img/beee.gif) 0 0;
+}
+.yahoo{height:27px;
+width:42px;
+background: url(./img/yahoo.gif) 0 0;
+}
+.crazy{height:27px;
+width:20px;
+background: url(./img/crazy.gif) 0 0;
+}
+.spiteful{height:20px;
+width:20px;
+background: url(./img/spiteful.gif) 0 0;
+}
+.drinks{height:28px;
+width:51px;
+background: url(./img/drinks.gif) 0 0;
+}
+.cheer{height:28px;
+width:50px;
+background: url(./img/cheer.gif) 0 0;
+}
+.hi{height:28px;
+width:42px;
+background: url(./img/hi.gif) 0 0;
+}
+.heart{height:25px;
+width:28px;
+background: url(./img/heart.gif) 0 0;
+}
